@@ -1,0 +1,39 @@
+_repo: Pasinkow_71680
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Suomalainen, Aatto
+    gutenberg_agent_id: '56329'
+    url: http://www.gutenberg.org/2009/agents/56329
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Тургенев, Иван Сергеевич
+    - Tourgueneff, Ivan
+    - Turgénieff, Iván
+    - Toergenev, Ivan
+    - Turgenjeff, Iwan
+    - Turgenev, I. S.
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: https://en.wikipedia.org/wiki/Ivan_Turgenev
+description: ''
+gutenberg_issued: '2023-09-19'
+identifiers:
+  gutenberg: '71680'
+language: fi
+pgterms:marc905: 20230126053916turgenev
+pgterms:marc906: '1890'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aFinland :$bSuomal. Kirjallisuuden Seura, $c1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pasinkow
+url: http://www.gutenberg.org/ebooks/71680
