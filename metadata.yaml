@@ -5,6 +5,9 @@ contributor:
     agent_name: Suomalainen, Aatto
     gutenberg_agent_id: '56329'
     url: http://www.gutenberg.org/2009/agents/56329
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Turgenev, Ivan Sergeevich
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/922
     wikipedia: https://en.wikipedia.org/wiki/Ivan_Turgenev
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71680#Pasinkow
 gutenberg_issued: '2023-09-19'
 identifiers:
   gutenberg: '71680'
